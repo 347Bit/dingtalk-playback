@@ -4,8 +4,8 @@
 }
 
 body {
-    /* background-color: rgb(96, 93, 93); */
-    background: url(./7.png) no-repeat;
+    background-color: rgb(96, 93, 93);
+/*     background: url(./7.png) no-repeat; */
     background-attachment: fixed;
     background-size: cover;
 
